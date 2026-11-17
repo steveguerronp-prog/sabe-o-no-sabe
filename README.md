@@ -1,4 +1,4 @@
-# sabe-o-no-sabe
+# sabe o no sabe
 
 ## Descripcion del proyecto
 
@@ -49,4 +49,4 @@ Proyecto desarrollado por:
 Herramientas utilizadas:
 - Python.
 - Visual Studio Code.
-- ChatGPT pero unicamenete como apoyo para entender y poder hacer el codigo.
+- 
