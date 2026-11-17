@@ -15,11 +15,11 @@ El juego cuenta con dos categorias:
 
 ## Funcionamiento
 
-- 1.Los jugadores ingresan sus nombres.
-- 2.Seleccionan una categoria.
-- 3. Responden las preguntas por turnos.
-- 4.Cada respuesta correcta suma un punto.
-- 5. Al finalizar se muestran los resultados y el ganador.
+- 1 Los jugadores ingresan sus nombres.
+- 2 Seleccionan una categoria.
+- 3 Responden las preguntas por turnos.
+- 4 Cada respuesta correcta suma un punto.
+- 5 Al finalizar se muestran los resultados y el ganador.
 
 ## Archivos del proyecto
 
