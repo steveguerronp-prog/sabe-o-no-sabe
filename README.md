@@ -42,9 +42,9 @@ Consulta el archivo LICENSE para conocer sus condiciones.
 ## Creditos
 
 Proyecto desarrollado por: 
--Eduardo Arevalo
--Juan David Vallejo
--Douglas Guerron
+- Eduardo Arevalo
+- Juan David Vallejo
+- Douglas Guerron
 
 Herramientas utilizadas:
 - Python.
