@@ -50,7 +50,10 @@ Proyecto desarrollado por:
 - Juan David Vallejo
 - Douglas Guerron
 
-Herramientas utilizadas:
+## Herramientas utilizadas:
 - Python.
 - Visual Studio Code.
 - ChatGPT: utilizado como herramienta de apoyo para comprender conceptos de programación, organizar la estructura del proyecto, resolver dudas sobre Python, revisar errores y mejorar la documentación.
+  
+## Referencias bibliográficas
+OpenAI. (2026). ChatGPT [Modelo de inteligencia artificial]. https://chatgpt.com/
