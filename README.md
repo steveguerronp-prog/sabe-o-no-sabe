@@ -15,25 +15,29 @@ El juego cuenta con dos categorias:
 
 ## Funcionamiento
 
-- 1 Los jugadores ingresan sus nombres.
-- 2 Seleccionan una categoria.
-- 3 Responden las preguntas por turnos.
-- 4 Cada respuesta correcta suma un punto.
-- 5 Al finalizar se muestran los resultados y el ganador.
-
+- Los jugadores ingresan sus nombres.
+- Seleccionan la modalidad de juego: individual o multijugador.
+- Eligen una categoría.
+- Responden las preguntas siguiendo los turnos correspondientes.
+- Cada respuesta correcta suma un punto.
+- Al finalizar, se muestran los resultados y, en el modo multijugador, se anuncia al ganador.
+- 
 ## Archivos del proyecto
 
-juego.py: archivo principal que inicia el juego.
-game_logic.py: Tiene las preguntas, respuestas y puntuaciones.
-server.py: se utilizara para gestionar la conexion entre jugadores.
-client.py: se utilizara para conectar los jugadores con el servidor.
+juego.py: Archivo principal relacionado con la ejecución del juego.
+game_logic.py: Contiene la lógica del juego, las preguntas, las respuestas y la comprobación de las respuestas.
+server.py: Se encarga de gestionar el servidor y la comunicación entre los jugadores.
+client.py: Permite conectar los jugadores con el servidor mediante sockets.
+LICENSE: Contiene los términos y condiciones de uso del proyecto.
+README.md: Documento que explica el funcionamiento y la organización del proyecto.
 
 ## Tecnologias utilizadas
 
 - Lenguaje de programacion: Python.
 - Editor de codigo: Visual Studio Code.
 - Control de versiones: GitHub.
-
+- Comunicación en red: Sockets de Python.
+- Librerías utilizadas: socket, json y random (librerías estándar de Python).
 ## Licencia
 
 Este proyecto utiliza la licencia MIT.
@@ -49,4 +53,4 @@ Proyecto desarrollado por:
 Herramientas utilizadas:
 - Python.
 - Visual Studio Code.
-- 
+- ChatGPT: utilizado como herramienta de apoyo para comprender conceptos de programación, organizar la estructura del proyecto, resolver dudas sobre Python y sockets, revisar errores y mejorar la documentación.
