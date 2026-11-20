@@ -24,12 +24,12 @@ El juego cuenta con dos categorias:
 - 
 ## Archivos del proyecto
 
-juego.py: Archivo principal relacionado con la ejecución del juego.
-game_logic.py: Contiene la lógica del juego, las preguntas, las respuestas y la comprobación de las respuestas.
-server.py: Se encarga de gestionar el servidor y la comunicación entre los jugadores.
-client.py: Permite conectar los jugadores con el servidor mediante sockets.
-LICENSE: Contiene los términos y condiciones de uso del proyecto.
-README.md: Documento que explica el funcionamiento y la organización del proyecto.
+- juego.py: Archivo principal relacionado con la ejecución del juego.
+- game_logic.py: Contiene la lógica del juego, las preguntas, las respuestas y la comprobación de las respuestas.
+- server.py: Se encarga de gestionar el servidor y la comunicación entre los jugadores.
+- client.py: Permite conectar los jugadores con el servidor.
+- LICENSE: Contiene los términos y condiciones de uso del proyecto.
+- README.md: Explica el funcionamiento y la organización del proyecto.
 
 ## Tecnologias utilizadas
 
